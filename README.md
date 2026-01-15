@@ -1,5 +1,4 @@
 # Modular Architecture on iOS &nbsp; [![CI](https://img.shields.io/travis/kudoleh/iOS-Modular-Architecture)](https://travis-ci.com/github/kudoleh/iOS-Modular-Architecture)
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/iOS-Modular-Architecture&type=Date)](https://star-history.com/#rudrankriyam/iOS-Modular-Architecture&Date)
 
 
 iOS Project implemented with Modular Architecture. (Can be used as Template project by replacing item name “Movie”). **More information in medium post**: <a href="https://tech.olx.com/modular-architecture-in-ios-c1a1e3bff8e9">Medium Post about Modular Architecture</a>
@@ -264,3 +263,5 @@ workflows:
 ```
 
 **Check medium post for more information**: <a href="https://tech.olx.com/modular-architecture-in-ios-c1a1e3bff8e9">Medium Post </a>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/iOS-Modular-Architecture&type=Date)](https://star-history.com/#rudrankriyam/iOS-Modular-Architecture&Date)
